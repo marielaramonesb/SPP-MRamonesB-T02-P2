@@ -28,13 +28,18 @@ public class SPPMRamonesBT02P2 {
               System.out.println(i);
           }
         }
-          if (valinf%3==0 & valinf%5==0){
-              System.out.println("El numero si es divisible entre 3 y 5");
+          if (valinf%3==0 ){
+              System.out.println("El numero si es divisible entre 3");
                  
           } else{
-              System.out.println("El numero no es divisible entre 3 y 5");
+              System.out.println("El numero no es divisible entre 3");
           }
-          
+          if(valinf%5==0){
+              System.out.println("El numero es divisible entre 5");
+          }
+          else{
+              System.out.println("El numero no es divisible entre 5");
+          }
           if(valinf%2==0){
                       System.out.println("El numero es par");
                       
