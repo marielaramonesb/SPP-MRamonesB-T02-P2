@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+// Mariela Ramones Balvoa- A01411449- IMT
 package spp.mramonesb.t02.p2;
 import java.util.Scanner;
 /**
@@ -47,11 +43,7 @@ public class SPPMRamonesBT02P2 {
               System.out.println("El numero no es par");
             
         }
-        }
-            
-            
-                
-        
+       }   
     }
     
 
